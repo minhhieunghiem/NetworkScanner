@@ -14,7 +14,6 @@ Built using:
 
 - Scan a target IP range using ARP
 - Get a list of connected devices with IP and MAC addresses
-- Easy to use command-line interface
 
 ## Usage
 Run the script with the -t option to specify the target IP address (in CIDR notation)
